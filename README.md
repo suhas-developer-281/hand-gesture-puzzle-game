@@ -36,8 +36,7 @@ Make sure you have Python 3.7 or newer installed on your system.
 
 2. Clone the Repository
 
-git clone https://github.com/Raghavv7989/gesture-puzzle-game.git
-cd gesture-puzzle-game
+git clone https://github.com/suhas-developer-281/hand-gesture-puzzle-game.git
 
 3. Install Dependencies
 
