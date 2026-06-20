@@ -3,8 +3,6 @@ This project is an interactive puzzle game where the user manipulates on-screen 
 
 The game is built with Python, using OpenCV for video processing and Google's MediaPipe for robust hand landmark detection.
 
-![Placeholder for a GIF demo of the game in action. You can record your screen and add the GIF here.]
-
 Features
 Real-Time Gesture Control: Uses a standard webcam to track the user's hand and fingers in real-time.
 
@@ -48,8 +46,6 @@ How to Run
 Execute the main script from your terminal:
 
 python main.py
-
-(Assuming you have named the script main.py)
 
 A window will open, and the application will request access to your webcam.
 
